@@ -1,7 +1,7 @@
 # Portal Pengaduan Masyarakat Pemerintah Kabupaten Badung
 
 ![alt text](badung.jpeg)
-![alt text](badung1.jpeg)
+![alt text](badung1.png)
 
 ## Deskripsi Proyek
 
