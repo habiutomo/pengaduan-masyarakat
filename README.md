@@ -98,8 +98,7 @@ Portal Pengaduan Masyarakat adalah sistem pengelolaan pengaduan online untuk Pem
 ## Kontak
 
 Untuk pertanyaan lebih lanjut, silakan hubungi:
-- Email: pengaduan@badungkab.go.id
-- Telepon: (0361) 123456
+- Email: habizinnia@gmail.com
 
 ---
 
