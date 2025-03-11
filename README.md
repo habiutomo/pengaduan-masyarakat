@@ -101,6 +101,3 @@ Untuk pertanyaan lebih lanjut, silakan hubungi:
 - Email: habizinnia@gmail.com
 
 ---
-
-Dikembangkan oleh Tim Teknologi Informasi Pemerintah Kabupaten Badung
-© 2025 Pemerintah Kabupaten Badung. Hak Cipta Dilindungi.
