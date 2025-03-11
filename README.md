@@ -1,5 +1,5 @@
 # Portal Pengaduan Masyarakat Pemerintah Kabupaten Badung
-![alt text](badung1.png)
+
 ![alt text](badung.jpeg)
 
 
@@ -13,7 +13,7 @@
 
 Portal Pengaduan Masyarakat adalah sistem pengelolaan pengaduan online untuk Pemerintah Kabupaten Badung. Aplikasi ini memungkinkan masyarakat untuk menyampaikan keluhan, pengaduan, dan aspirasi kepada pemerintah secara transparan dan efisien.
 
-
+![alt text](badung1.png)
 
 ## Fitur Utama
 
