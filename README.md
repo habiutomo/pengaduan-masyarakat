@@ -7,6 +7,8 @@
 
 ![alt text](2.png)
 
+![alt text](3.png)
+
 ## Deskripsi Proyek
 
 Portal Pengaduan Masyarakat adalah sistem pengelolaan pengaduan online untuk Pemerintah Kabupaten Badung. Aplikasi ini memungkinkan masyarakat untuk menyampaikan keluhan, pengaduan, dan aspirasi kepada pemerintah secara transparan dan efisien.
